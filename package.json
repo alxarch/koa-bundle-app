@@ -1,0 +1,24 @@
+{
+  "name": "koa-bundle-app",
+  "version": "0.0.1",
+  "description": "Koa app bundle for koa-container",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-container": "^0.2.0",
+    "koa-router": "^5.4.0"
+  },
+  "devDependencies": {
+    "koa-container": "^0.2.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "koa",
+    "plugin",
+    "container"
+  ],
+  "author": "Sigalas Alexandros <alxarch@gmail.com>",
+  "license": "ISC"
+}
